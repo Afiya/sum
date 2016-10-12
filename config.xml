@@ -13,7 +13,7 @@
       Addition
    </author>
    
-   <preference name = "permissions" value = "none"/>
+   <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
    
    <icon src = "res/icon/android/drawable-ldpi/tp_icon.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
